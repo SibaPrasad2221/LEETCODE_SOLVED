@@ -15,6 +15,11 @@
  */
 class Solution {
     public TreeNode solution(TreeNode root, int val){
+
+        //TC: O(H)/O(log n) :avg case
+
+        //for worst case or for a skew tree TC would be O(N)
+        
         if(root==null){
             //if at the left and or right end we reach the last node then just insert
             TreeNode newnode = new TreeNode(val);
