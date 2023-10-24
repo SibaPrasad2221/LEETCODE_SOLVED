@@ -1,33 +1,29 @@
 class Solution {
+    public String reshape(String s){
+        char[] arr = s.toCharArray();
+        Arrays.sort(arr);
+        return new String(arr);
+    }
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap< HashMap<Character, Integer>, ArrayList<String> > hmap = new HashMap<>();
+        Map<String, List<String>> map = new HashMap<>();
+
         for(String str: strs){
-            HashMap<Character, Integer> freq_map = new HashMap<>();
-            for(int i=0;i<str.length();i++){
-                char ch = str.charAt(i);
-                freq_map.put(ch, freq_map.getOrDefault(ch, 0) + 1);
-            }
+            String s = reshape(str);
 
-            if(!hmap.containsKey(freq_map)){
-                ArrayList<String> list = new ArrayList<>();
-                list.add(str);
-                hmap.put(freq_map, list);
+            if(!map.containsKey(s)){
+                List<String> sub_list = new ArrayList<>();
+                sub_list.add(str);
+                map.put(s, sub_list);
             }else{
-                //if that freq map alreay exist
-                //and as it's exist get it's value whihc is nothing but a arraylist and update the arraylist
-
-                ArrayList<String> found_list = hmap.get(freq_map);
-                found_list.add(str);
-
-                // hmap.put(freq_list, found_list);
+                List<String> founded_list = map.get(s);
+                founded_list.add(str);
             }
         }
-
+        
         List<List<String>> ans = new ArrayList<>();
-        for(HashMap<Character, Integer> sub_map : hmap.keySet()){
-            ans.add(new ArrayList<>(hmap.get(sub_map)));
+        for(String str : map.keySet()){
+            ans.add(map.get(str));
         }
-
         return ans;
     }
 }
