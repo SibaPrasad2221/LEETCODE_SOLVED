@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
