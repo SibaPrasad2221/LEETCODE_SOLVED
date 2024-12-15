@@ -52,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
