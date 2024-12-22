@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
