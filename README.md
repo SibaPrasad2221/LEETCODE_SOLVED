@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Greedy
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
