@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0438-find-all-anagrams-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
