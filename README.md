@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
