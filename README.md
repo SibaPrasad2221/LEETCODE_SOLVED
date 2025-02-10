@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -117,4 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
