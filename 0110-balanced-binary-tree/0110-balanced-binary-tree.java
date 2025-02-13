@@ -27,6 +27,10 @@ class Solution {
     }
 
     public boolean isBalanced(TreeNode root) {
+
+        //TC: O(N)
+        //SC: O(N)
+        
         if(root==null) return true;
 
         int left_height = height(root.left);
