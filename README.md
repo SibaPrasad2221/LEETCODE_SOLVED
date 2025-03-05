@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0237-delete-node-in-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
+| [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
