@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
