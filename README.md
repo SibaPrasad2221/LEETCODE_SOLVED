@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1603-running-sum-of-1d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
