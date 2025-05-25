@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
+| [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
+| [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
