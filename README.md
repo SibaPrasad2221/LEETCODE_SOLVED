@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
