@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0237-delete-node-in-a-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
