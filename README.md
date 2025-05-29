@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0113-path-sum-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0110-balanced-binary-tree) |
