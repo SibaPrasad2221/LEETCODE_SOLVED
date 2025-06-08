@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
+| [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
 | [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0744-network-delay-time) |
 | [1035-cousins-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1035-cousins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Monotonic Stack
 |  |
