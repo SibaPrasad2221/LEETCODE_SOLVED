@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0237-delete-node-in-a-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
