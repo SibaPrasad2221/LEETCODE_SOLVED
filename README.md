@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0695-max-area-of-island](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0695-max-area-of-island) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
