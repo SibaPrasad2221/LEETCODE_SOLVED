@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1256-rank-transform-of-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
