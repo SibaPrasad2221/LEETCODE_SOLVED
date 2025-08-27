@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0134-gas-station) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0560-subarray-sum-equals-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SibaPrasad2221/LEETCODE_SOLVED/tree/master/1072-next-greater-node-in-linked-list) |
 ## Topological Sort
 |  |
